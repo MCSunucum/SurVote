@@ -1,0 +1,4 @@
+name: SurVote
+version: ${project.version}
+main: com.mcsunucum.survote.Main
+api-version: 1.15
